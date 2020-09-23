@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T15:25:40.773Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="DMRUDVm71pIBqiYUqFCP" version="13.7.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-09-23T15:25:58.315Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="zSle16ibWUiY9NpihAxO" version="13.7.3" type="github" pages="3">
   <diagram id="AZMaDSbWkGERWLqelwLr" name="Page-1">
     <mxGraphModel dx="729" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -240,9 +240,6 @@
             <mxPoint x="280" y="380" as="sourcePoint" />
             <mxPoint x="240" y="540" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="s_ZH6N7h9w6DZfI0ku17-19" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="s_ZH6N7h9w6DZfI0ku17-1">
-          <mxGeometry x="380" y="530" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
